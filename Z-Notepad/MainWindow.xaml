@@ -1,0 +1,12 @@
+﻿<Window x:Class="Z_Notepad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Z_Notepad"
+        mc:Ignorable="d"
+        Title="Z-Notepad" Height="430" Width="410" ResizeMode="NoResize">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="401" TextWrapping="Wrap" Text="&lt;Type Here&gt;" VerticalAlignment="Top" Width="404" FontFamily="Century Gothic" FontSize="22" AutomationProperties.Name="Text Area" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" FontWeight="Bold"/>
+    </Grid>
+</Window>

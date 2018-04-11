@@ -1,0 +1,15 @@
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\bin\Debug\Z-Notepad.exe
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\bin\Debug\Z-Notepad.pdb
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\Z-Notepad.csprojResolveAssemblyReference.cache
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\MainWindow.g.cs
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\App.g.cs
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\Z-Notepad_MarkupCompile.cache
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\Z-Notepad_MarkupCompile.lref
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\MainWindow.baml
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\Z-Notepad.g.resources
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\Z_Notepad.Properties.Resources.resources
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\Z-Notepad.csproj.GenerateResource.cache
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\Z-Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\Z-Notepad.exe
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\obj\Debug\Z-Notepad.pdb
+C:\Users\Zavaar\Desktop\Z-Notepad\Z-Notepad\bin\Debug\Z-Notepad.exe.config
